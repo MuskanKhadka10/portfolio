@@ -66,7 +66,7 @@ const Hero = () => {
           <div className="md:w-1/2 flex justify-center">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-blue-100 dark:bg-blue-900 relative overflow-hidden shadow-lg">
               <img
-                src="/src/muskan.jpg"
+                src="./muskan.JPG"
                 alt="Muskan Khadka"
                 className="absolute inset-0 w-full h-full object-cover"
               />
